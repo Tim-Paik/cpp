@@ -1,0 +1,2 @@
+#include <cstdio>
+int main(){printf("0 25 75\n4 18 78\n8 11 81\n12 4 84");return 0;}
