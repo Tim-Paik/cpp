@@ -1,6 +1,6 @@
-//Õ·×ªÏà³ý·¨ 
+//è¾—è½¬ç›¸é™¤æ³• 
 /**
- * ¶ÔÓÚÈÎÒâm,n, ÓÐm,nµÄ×î´ó¹«Ô¼Êý Îª m%nºÍmµÄ×î´ó¹«Ô¼Êý 
+ * å¯¹äºŽä»»æ„m,n, æœ‰m,nçš„æœ€å¤§å…¬çº¦æ•° ä¸º m%nå’Œmçš„æœ€å¤§å…¬çº¦æ•° 
  */
 #include <iostream>
 using namespace std;

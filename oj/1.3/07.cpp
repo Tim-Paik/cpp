@@ -1,4 +1,4 @@
-//07:¼ÆËã¶àÏîÊ½µÄÖµ
+//07:è®¡ç®—å¤šé¡¹å¼çš„å€¼
 #include<cstdio>
 int main() {
 	double x,a,b,c,d;

@@ -1,4 +1,4 @@
-//09:ÓëÔ²Ïà¹ØµÄ¼ÆËã
+//09:ä¸åœ†ç›¸å…³çš„è®¡ç®—
 #include<cstdio>
 const double pi = 3.14159;
 int main() {

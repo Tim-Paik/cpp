@@ -1,4 +1,4 @@
-//ÓÃdowhileÑ­»·ÊµÏÖ1992¸ö1992µÄ³Ë»ıµÄÄ©Á½Î»ÊıÊÇ¶àÉÙ 
+//ç”¨dowhileå¾ªç¯å®ç°1992ä¸ª1992çš„ä¹˜ç§¯çš„æœ«ä¸¤ä½æ•°æ˜¯å¤šå°‘ 
 #include <iostream>
 using namespace std;
 int main() {

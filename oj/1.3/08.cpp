@@ -1,4 +1,4 @@
-//08:温度表达转化
+//08:娓╁害琛ㄨ揪杞寲
 #include<cstdio>
 int main() {
 	double f;
